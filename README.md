@@ -5,7 +5,7 @@
 - i am **Php and Javascript deveoper**
 - i am intrested in **Php laravel javascript python java**
 - 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with ... currently **intership**
+- 🤔 I’m looking for help with ... currently **internship**
 - 📫 How to reach me: **Gmail: onifadebolu64@gmail.com**
 - 💬 Ask me about anything relating php 
 
