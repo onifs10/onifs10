@@ -2,7 +2,7 @@
 - My name is **Onifade Boluwtife Basit** 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
-- i am a **Php and Javascript deveoper**
+- i am a **Php and Javascript developer**
 - i am intrested in **Php laravel javascript python java**
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with ... currently **internship**
