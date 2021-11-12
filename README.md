@@ -14,6 +14,18 @@
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=onifs10&show_icons=true&theme=default) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/onifs10/onifs10)
 
+&nbsp;
+
+## :chart_with_upwards_trend:   My Github and WakaTime Stats
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onifs10&show_icons=true&theme=radical&border_radius=10" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&theme=radical&border_radius=10" />
+</a>
+
+&nbsp;
+
 <!--
 **onifs10/onifs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
