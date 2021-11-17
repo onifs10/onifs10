@@ -12,8 +12,8 @@
 &nbsp;
 
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=onifs10&show_icons=true&theme=default&border_radius=10)
 [![Onif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afe25143-fa08-4e23-9761-b362a25de483&border_radius=10)](#)
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=onifs10&show_icons=true&theme=default&border_radius=10)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact&border_radius=10)](https://github.com/onifs10/onifs10)
 
