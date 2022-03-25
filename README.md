@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... currently **internship**
 - 📫 How to reach me: **Gmail: onifadebolu64@gmail.com**
 - 💬 Ask me about anything relating php 
-
+i use *ViM* btw 
 &nbsp;
 
 ## :chart_with_upwards_trend:   My Github and WakaTime Stats
