@@ -1,6 +1,7 @@
 [![@tife's Holopin board](https://holopin.io/api/user/board?user=tife)](https://holopin.io/@tife)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=onifs10&label=Profile%20views&color=0e75b6&style=flat"
-                     alt="Onifade "/></p>
+
+![@tife's profile view](https://komarev.com/ghpvc/?username=onifs10&label=Profile%20views&color=0e75b6&style=flat")
+
 ### Hi there 👋
 - My name is **Onifade Boluwtife Basit** 
 - 📖 I’m currently studying computer engineering 
