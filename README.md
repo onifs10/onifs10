@@ -6,7 +6,7 @@
 - My name is **Boluwtife Basit Onifade** 
 - ~📖 I’m currently studying computer engineering~
 - 🌱 ... always learning
-- i am a **Php and Javascript developer**
+-  Software engineer
 - i am intrested in **Python, C++, Javascript**
 - 👯 I’m looking to collaborate on **open source projects**
 - 📫 How to reach me: **Gmail: onifadebolu64@gmail.com**
